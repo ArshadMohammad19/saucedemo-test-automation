@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  qa-tests:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: saucedemo-qa-tests
+    environment:
+      - BASE_URL=https://www.saucedemo.com
+      - API_BASE_URL=https://jsonplaceholder.typicode.com
+      - HEADLESS=true
+    volumes:
+      - ./allure-results:/app/allure-results
+      - ./screenshots:/app/screenshots
+      - ./logs:/app/logs
+    command: ["pytest", "-m", "smoke or regression", "--alluredir=allure-results"]

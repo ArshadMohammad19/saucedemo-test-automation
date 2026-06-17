@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Playwright
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# Allure
+/allure-results/
+/allure-report/
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Coverage
+.coverage
+htmlcov/
+
+# Screenshots/videos from failed tests
+/screenshots/
+/videos/
