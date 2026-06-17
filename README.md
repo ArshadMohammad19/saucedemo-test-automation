@@ -4,6 +4,8 @@ A full end-to-end (UI) and API test automation framework built with **Python**, 
 
 This project was built as a QA portfolio piece to demonstrate practical, production-style test automation skills: not just "tests that pass," but a framework with the structure, tooling, and reporting that real QA teams expect.
 
+**[View the live Allure test report →](https://arshadmohammad19.github.io/saucedemo-test-automation/)**
+
 ## What this project demonstrates
 
 - **Page Object Model (POM)** — clean separation between test logic and UI locators/interactions
