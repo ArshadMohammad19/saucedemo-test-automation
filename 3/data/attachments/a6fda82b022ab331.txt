@@ -1,2 +1,0 @@
-2026-06-18 06:51:38 | INFO     | utils.api_client | POST https://jsonplaceholder.typicode.com/todos | body={'title': 'Write QA automation tests', 'completed': False, 'userId': 1}
-2026-06-18 06:51:38 | INFO     | utils.api_client | Response https://jsonplaceholder.typicode.com/todos | status=201
