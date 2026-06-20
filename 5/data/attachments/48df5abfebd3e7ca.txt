@@ -1,0 +1,2 @@
+2026-06-20 06:20:37 | INFO     | utils.api_client | PATCH https://jsonplaceholder.typicode.com/posts/1 | body={'title': 'Patched title only'}
+2026-06-20 06:20:37 | INFO     | utils.api_client | Response https://jsonplaceholder.typicode.com/posts/1 | status=200
