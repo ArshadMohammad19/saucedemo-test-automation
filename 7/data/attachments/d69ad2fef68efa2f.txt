@@ -1,0 +1,2 @@
+2026-06-22 07:23:46 | INFO     | utils.api_client | GET https://jsonplaceholder.typicode.com/users/1/todos | params=None
+2026-06-22 07:23:46 | INFO     | utils.api_client | Response https://jsonplaceholder.typicode.com/users/1/todos | status=200
