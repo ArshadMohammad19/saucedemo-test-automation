@@ -1,2 +1,0 @@
-2026-07-12 05:27:16 | INFO     | utils.api_client | POST https://jsonplaceholder.typicode.com/posts | body={'title': 'QA portfolio test post', 'body': 'Body content created during automated test run', 'userId': 1}
-2026-07-12 05:27:16 | INFO     | utils.api_client | Response https://jsonplaceholder.typicode.com/posts | status=201
