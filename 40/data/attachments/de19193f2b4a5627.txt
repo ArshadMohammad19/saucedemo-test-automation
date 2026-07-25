@@ -1,0 +1,2 @@
+INFO     utils.api_client:api_client.py:33 POST https://jsonplaceholder.typicode.com/todos | body={'title': 'Write QA automation tests', 'completed': False, 'userId': 1}
+INFO     utils.api_client:api_client.py:35 Response https://jsonplaceholder.typicode.com/todos | status=201
