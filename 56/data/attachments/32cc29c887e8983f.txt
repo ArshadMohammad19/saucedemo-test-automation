@@ -1,0 +1,2 @@
+2026-08-10 03:52:35 | INFO     | utils.api_client | DELETE https://jsonplaceholder.typicode.com/posts/1
+2026-08-10 03:52:35 | INFO     | utils.api_client | Response https://jsonplaceholder.typicode.com/posts/1 | status=200
