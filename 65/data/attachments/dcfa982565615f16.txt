@@ -1,0 +1,2 @@
+INFO     utils.api_client:api_client.py:26 GET https://jsonplaceholder.typicode.com/posts/1/comments | params=None
+INFO     utils.api_client:api_client.py:28 Response https://jsonplaceholder.typicode.com/posts/1/comments | status=200
