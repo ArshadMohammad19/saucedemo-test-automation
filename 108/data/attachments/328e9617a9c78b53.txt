@@ -1,0 +1,2 @@
+INFO     utils.api_client:api_client.py:47 PATCH https://jsonplaceholder.typicode.com/posts/1 | body={'title': 'Patched title only'}
+INFO     utils.api_client:api_client.py:49 Response https://jsonplaceholder.typicode.com/posts/1 | status=200
