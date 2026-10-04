@@ -1,2 +1,0 @@
-2026-10-03 07:35:28 | INFO     | utils.api_client | GET https://jsonplaceholder.typicode.com/todos | params={'completed': 'true'}
-2026-10-03 07:35:28 | INFO     | utils.api_client | Response https://jsonplaceholder.typicode.com/todos | status=200

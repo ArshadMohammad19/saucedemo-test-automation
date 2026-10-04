@@ -1,2 +1,0 @@
-2026-10-03 07:35:27 | INFO     | utils.api_client | GET https://jsonplaceholder.typicode.com/posts | params={'userId': 1}
-2026-10-03 07:35:27 | INFO     | utils.api_client | Response https://jsonplaceholder.typicode.com/posts | status=200

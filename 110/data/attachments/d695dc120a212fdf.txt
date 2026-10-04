@@ -1,2 +1,0 @@
-2026-10-03 07:35:27 | INFO     | utils.api_client | PUT https://jsonplaceholder.typicode.com/posts/1 | body={'id': 1, 'title': 'Updated title', 'body': 'Updated body', 'userId': 1}
-2026-10-03 07:35:28 | INFO     | utils.api_client | Response https://jsonplaceholder.typicode.com/posts/1 | status=200
