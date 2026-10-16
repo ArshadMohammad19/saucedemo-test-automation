@@ -1,0 +1,2 @@
+INFO     utils.api_client:api_client.py:40 PUT https://jsonplaceholder.typicode.com/posts/1 | body={'id': 1, 'title': 'Updated title', 'body': 'Updated body', 'userId': 1}
+INFO     utils.api_client:api_client.py:42 Response https://jsonplaceholder.typicode.com/posts/1 | status=200
