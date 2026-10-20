@@ -1,0 +1,2 @@
+INFO     utils.api_client:api_client.py:33 POST https://jsonplaceholder.typicode.com/posts | body={'title': 'QA portfolio test post', 'body': 'Body content created during automated test run', 'userId': 1}
+INFO     utils.api_client:api_client.py:35 Response https://jsonplaceholder.typicode.com/posts | status=201
