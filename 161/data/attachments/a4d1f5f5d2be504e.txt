@@ -1,0 +1,2 @@
+INFO     utils.api_client:api_client.py:26 GET https://jsonplaceholder.typicode.com/posts | params={'userId': 1}
+INFO     utils.api_client:api_client.py:28 Response https://jsonplaceholder.typicode.com/posts | status=200

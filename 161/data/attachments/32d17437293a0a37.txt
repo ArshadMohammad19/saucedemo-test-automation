@@ -1,0 +1,2 @@
+INFO     utils.api_client:api_client.py:54 DELETE https://jsonplaceholder.typicode.com/posts/1
+INFO     utils.api_client:api_client.py:56 Response https://jsonplaceholder.typicode.com/posts/1 | status=200
